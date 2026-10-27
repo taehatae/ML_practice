@@ -1,0 +1,13 @@
+# Python 환경과 캐시
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter 자동 저장본과 실행 로그
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+# 이 과제의 MNIST 다운로드·실험 결과·보고서 검증 임시 폴더
+.mnist_work/
